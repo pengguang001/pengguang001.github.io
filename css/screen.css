@@ -31,7 +31,6 @@ h1 {
 }
 
 p {
-  margin: 1em;
 }
 
 a {
@@ -81,8 +80,7 @@ ul.posts {
 .site {
   font-size: 100%;
   text-align: justify;
-  width: 100%;
-  margin: 1em;
+  margin: 1.5em;
   line-height: 1.5em;
 }
 
