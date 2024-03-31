@@ -29,8 +29,13 @@ h1 {
 }
 
 p {
-  margin-bottom: 1em;
-  word-break : break-word ; 
+    box-sizing: inherit;
+    margin-bottom: 1.75em;
+    color: rgb(64, 64, 64);
+    font-family: "Libre Baskerville", Libre, Georgia, Times, serif;
+    letter-spacing: normal;
+    text-align: start;
+    text-wrap: wrap;
 }
 
 a {
