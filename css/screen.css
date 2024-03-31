@@ -18,6 +18,7 @@ html, body {
 body {
   background-color: white;
   text-align: center;
+  font-family: "Libre Baskerville", Libre, Georgia, Times, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -40,14 +41,6 @@ p {
 
 a {
   color: #00a;
-}
-
-a:hover {
-  color: black;
-}
-
-a:visited {
-  color: #a0a;
 }
 
 table {
